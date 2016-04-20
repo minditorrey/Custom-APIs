@@ -1,16 +1,30 @@
 {
   "name": "mindi",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "md5": "^2.1.0"
   },
+  “engines”: {
+    “node”: "5.10.1"
+    },
+  
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minditorrey/Custom-APIs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/minditorrey/Custom-APIs/issues"
+  },
+  "homepage": "https://github.com/minditorrey/Custom-APIs#readme",
+  "description": ""
 }
+
