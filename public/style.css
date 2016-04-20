@@ -1,0 +1,15 @@
+body {
+	background-color: black;
+	color: white;
+	margin-left: 5%;
+}
+
+button {
+	color: black;
+	font-weight: bold;
+	margin-top: 3%;
+}
+
+input {
+	color: black;
+}
